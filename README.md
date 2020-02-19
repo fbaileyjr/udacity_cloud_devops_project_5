@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/github/fbaileyjr/udacity_cloud_devops_project_5.svg?style=svg)](https://circleci.com/github/fbaileyjr/udacity_cloud_devops_project_5)
+[![CircleCI](https://circleci.com/gh/fbaileyjr/udacity_cloud_devops_project_5.svg?style=svg)](https://circleci.com/gh/fbaileyjr/udacity_cloud_devops_project_5)
 
 ## Project Overview
 
